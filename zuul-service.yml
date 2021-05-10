@@ -14,8 +14,8 @@ zuul.routes.organizacion.serviceId: organizacion-service
 zuul.routes.personaje.path: /personaje/**
 zuul.routes.personaje.serviceId: personaje-service
 
-zuul.routes.personaje.path: /episodio/**
-zuul.routes.personaje.serviceId: episodio-service
+zuul.routes.episodio.path: /episodio/**
+zuul.routes.episodio.serviceId: episodio-service
 
 zuul.routes.auth-service.path: /auth/**
 zuul.routes.auth-service.serviceId: auth-service
